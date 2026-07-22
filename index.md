@@ -1,7 +1,5 @@
 # Light level activated Smart light
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
-
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
+The light level activated smart light is designed so when the 5 Mohm LDR resistance increases due to it being dark it will turn a LED on. So far the biggest challenge I faced was the wiring for the LDR.  
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
