@@ -46,10 +46,10 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gaEWjnTA8Q?si=mm6h9AmEpRWnqAah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+- The componets currently in use in the Smart light are a Arduino uno board, a high brightness LED, and a 5 Mohm LDR
+- After completing the first milestone the progress on the Smart Street Light is it turns the LED on when the ambient light level are at a certain level 
+- current challenges are the male to female wires connected to the light are too long and will be replaced with shorter wires 
+- My plan is to shorten the male to female wires and test the affects of different Mohm LDR to see what changes they provide
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
