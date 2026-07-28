@@ -69,7 +69,7 @@ void setup() {
   pinMode(ledpin, OUTPUT);
   pinMode(lightpin, INPUT);
   pinMode(motionPin, INPUT);
-  delay(30000);
+  delay(30000);  // Start up delay
 }
 
 void loop() {
@@ -77,14 +77,14 @@ void loop() {
   int motion = digitalRead(motionPin);
 
   Serial.print("Light: ");
-  Serial.print(lightsens);
-  Serial.print("   Motion: ");
+  Serial.print(lightsens);      // prints what the light sensors sees
+  Serial.print("   Motion: "); // prints what the motion sensor sees
   Serial.println(motion);
 
   // Turn on LED only if it is dark AND motion is detected
   if (lightsens < LIGHT && motion == HIGH) {
     digitalWrite(ledpin, HIGH);
-    delay(5000);
+    delay(5000);  // keeps the light on for 5 sec
   }
   else {
     digitalWrite(ledpin, LOW);
