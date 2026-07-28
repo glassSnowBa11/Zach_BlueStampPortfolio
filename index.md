@@ -57,26 +57,40 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
-const   int ledpin = 13;
-const   int lightpin = A2;
-const int LIGHT = 800; // what value the lightsens has to see to turn light on
+const int ledpin = 13;
+const int lightpin = A2;
+const int motionPin = 2;     // PIR sensor output
+
+const int LIGHT = 800;       // Light threshold
+
 void setup() {
   Serial.begin(9600);
+
   pinMode(ledpin, OUTPUT);
-  pinMode(lightpin,   INPUT);
+  pinMode(lightpin, INPUT);
+  pinMode(motionPin, INPUT);
+  delay(30000);
 }
 
 void loop() {
   int lightsens = analogRead(lightpin);
-  Serial.println(lightsens); // tell you what the lightsens is seeing and prints the value
-  delay(500);
-  if (lightsens < LIGHT) {
-    digitalWrite(ledpin, HIGH); // turns the light on
-    delay(1500);
+  int motion = digitalRead(motionPin);
+
+  Serial.print("Light: ");
+  Serial.print(lightsens);
+  Serial.print("   Motion: ");
+  Serial.println(motion);
+
+  // Turn on LED only if it is dark AND motion is detected
+  if (lightsens < LIGHT && motion == HIGH) {
+    digitalWrite(ledpin, HIGH);
+    delay(5000);
   }
   else {
     digitalWrite(ledpin, LOW);
   }
+
+  delay(500);
 }
 ```
 
