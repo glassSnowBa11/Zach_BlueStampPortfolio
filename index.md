@@ -100,10 +100,11 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| The Most Complete Starter Kit UNO R3 Project| Has all the parts I used for base project wothout modifactions| 64.99| <a href="https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/"> Link </a> |
+| The Most Complete Starter Kit UNO R3 Project| Has all the parts I used for base project with out modifications| 64.99| <a href="https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/"> Link </a> |
 | Digital Multimeter | testing if the wires are live or not | 11.98 | <a href="https://www.amazon.com/Multimeter-Voltmeter-Continuity-Resistance-Electrical/dp/B0CXM242J1"> Link </a> |
 | Amazon basics 8 pack 9v alkaline batteries| to power the Digital Multimeter| 12.69| <a href="https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S"> Link </a> |
 |WWZMDiB 5Pcs AM312 Mini Pir Motion Sensor Module HC-SR312 IR Human Sensor for Arduino| The Motion sensors I used for the second milestone|9.99| <a href="https://www.amazon.com/WWZMDiB-AM312-Motion-HC-SR312-Arduino/dp/B0CCF52DVJ/"> Link </a> |
+|Chanzon 20pcs 5537-1 GL5537-1 5mm 2 Ω ohm Photoresistor LDR| The LDR I switched to during milestone 2|5.99| <a href="https://www.amazon.com/dp/B08QS6L7F5"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
