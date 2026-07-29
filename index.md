@@ -34,10 +34,10 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
+- I add a motion sensor to the smart light and switch the LDR to a 2 mohm instead of 5 mohm to demo the light better
 - What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- The biggest challenged of milestone two was wiring the motion sensor
+- A cityscape for the light and a street light frame to hold the smart light
 
 # First Milestone
 
