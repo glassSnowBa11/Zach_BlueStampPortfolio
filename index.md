@@ -51,7 +51,7 @@ For your first milestone, describe what your project is and how you plan to buil
 - My plan is to shorten the male to female wires and test the affects of different Mohm LDR to see what changes they provide
 
 # Schematics 
-![Headstone Image](image_2026-07-30-103218151.png)
+![Headstone Image](image_2026-07-30_103218151.png)
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
