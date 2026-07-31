@@ -29,11 +29,9 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=gePMNI_Xt3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - I add a motion sensor to the smart light and switch the LDR to a 2 mohm instead of 5 mohm to demo the light better
 - I was most surprised on how simple the updates to the code and adding how the motion sensor was
 - The biggest challenged of milestone two was wiring the motion sensor
@@ -44,7 +42,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gaEWjnTA8Q?si=mm6h9AmEpRWnqAah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
 - The componets currently in use in the Smart light are a Arduino uno board, a high brightness LED, and a 5 Mohm LDR
 - After completing the first milestone the progress on the Smart Street Light is it turns the LED on when the ambient light level are at a certain level 
 - current challenges are the male to female wires connected to the light are too long and will be replaced with shorter wires 
@@ -54,7 +51,6 @@ For your first milestone, describe what your project is and how you plan to buil
 ![Headstone Image](image_2026-07-30_103218151.png)
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
 const int ledpin = 13;
