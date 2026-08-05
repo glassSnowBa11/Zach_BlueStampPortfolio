@@ -11,7 +11,7 @@ The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR w
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](IMG_1755.jpg)
+![Headstone Image](Photo.jpg)
   
 # Final Milestone
 
