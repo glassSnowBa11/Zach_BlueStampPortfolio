@@ -9,7 +9,7 @@ The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR w
 |:--:|:--:|:--:|:--:|
 | Zach B | Georgetown Day School | Civil Engineering | Incoming Senior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](Photo.jpg)
   
@@ -90,8 +90,7 @@ void loop() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
+
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
@@ -101,10 +100,4 @@ Don't forget to place the link of where to buy each component inside the quotati
 |WWZMDiB 5Pcs AM312 Mini Pir Motion Sensor Module HC-SR312 IR Human Sensor for Arduino| The Motion sensors I used for the second milestone|9.99| <a href="https://www.amazon.com/WWZMDiB-AM312-Motion-HC-SR312-Arduino/dp/B0CCF52DVJ/"> Link </a> |
 |Chanzon 20pcs 5537-1 GL5537-1 5mm 2 Ω ohm Photoresistor LDR| The LDR I switched to during milestone 2|5.99| <a href="https://www.amazon.com/dp/B08QS6L7F5"> Link </a> |
 
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
