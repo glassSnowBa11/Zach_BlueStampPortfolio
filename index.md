@@ -9,7 +9,6 @@ The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR w
 |:--:|:--:|:--:|:--:|
 | Zach B | Georgetown Day School | Civil Engineering | Incoming Senior
 
-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](Photo.jpg)
   
