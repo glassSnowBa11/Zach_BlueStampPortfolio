@@ -28,7 +28,7 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/6riWrIckROo?s
 # Second Milestone
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gePMNI_Xt3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gePMNI_Xt3Y?si=xFfnbNLPgRsfbyta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - I add a motion sensor to the smart light and switch the LDR to a 2 mohm instead of 5 mohm to demo the light better
 - I was most surprised on how simple the updates to the code and adding how the motion sensor was
