@@ -15,7 +15,7 @@ The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR w
 # Final Milestone
 
 
-iframe width="560" height="315" src="https://www.youtube.com/embed/6riWrIckROo?si=QJjqZmJMLwpZhkYC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6riWrIckROo?si=QJjqZmJMLwpZhkYC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 - Since my previous milestone video I put the motion sensor and LED into a makeshift cardboard street light and the Arduino board is hidden underneath the model 
