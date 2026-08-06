@@ -1,5 +1,5 @@
 # Light level activated Smart light
-The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR which senses when the ambient room or location's lighting decreases below a certain threshold and then activates a high brightness LED light for a set time. The Smart light also as a motion sensor that has 100 degrees of vision that turns the light on.
+The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR which senses when the ambient room or location's lighting decreases below a certain threshold and then activates a high brightness LED light for a set time. The smart light also as a motion sensor that has 100 degrees of vision that turns the light on.
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
@@ -40,7 +40,7 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/6riWrIckROo?s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gaEWjnTA8Q?si=mm6h9AmEpRWnqAah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- The componets currently in use in the Smart light are a Arduino uno board, a high brightness LED, and a 5 Mohm LDR
+- The components currently in use in the Smart light are a Arduino uno board, a high brightness LED, and a 5 Mohm LDR
 - After completing the first milestone the progress on the Smart Street Light is it turns the LED on when the ambient light level are at a certain level 
 - current challenges are the male to female wires connected to the light are too long and will be replaced with shorter wires 
 - My plan is to shorten the male to female wires and test the affects of different Mohm LDR to see what changes they provide
