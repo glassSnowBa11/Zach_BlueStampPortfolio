@@ -1,8 +1,6 @@
 # Light level activated Smart light
 The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR which senses when the ambient room or location's lighting decreases below a certain threshold and then activates a high brightness LED light for a set time. The smart light also as a motion sensor that has 100 degrees of vision that turns the light on.
 ```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
 ```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -32,6 +30,7 @@ The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR w
 - I add a motion sensor to the smart light and switch the LDR to a 2 mohm instead of 5 mohm to demo the light better
 - I was most surprised on how simple the updates to the code and adding how the motion sensor was
 - The biggest challenged of milestone two was wiring the motion sensor
+- I learned that it was good to take a step back and see what the problem is
 - A cityscape for the light and a street light frame to hold the smart light
 
 # First Milestone
@@ -98,4 +97,8 @@ void loop() {
 |WWZMDiB 5Pcs AM312 Mini Pir Motion Sensor Module HC-SR312 IR Human Sensor for Arduino| The Motion sensors I used for the second milestone|9.99| <a href="https://www.amazon.com/WWZMDiB-AM312-Motion-HC-SR312-Arduino/dp/B0CCF52DVJ/"> Link </a> |
 |Chanzon 20pcs 5537-1 GL5537-1 5mm 2 Ω ohm Photoresistor LDR| The LDR I switched to during milestone 2|5.99| <a href="https://www.amazon.com/dp/B08QS6L7F5"> Link </a> |
 
+# Recourse list
+
+|Tinkercad| Used to tinkercad to make the schematic of my project| <a href="www.tinkercad.com"> Link </a> |
+|Arduino project hub| the original work I based my project on| <a href="https://projecthub.arduino.cc/angadiameya007/smart-street-light-6ad038"> Link </a> 
 
