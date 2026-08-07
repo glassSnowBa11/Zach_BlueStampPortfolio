@@ -1,7 +1,6 @@
 # Light level activated Smart light
 The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR which senses when the ambient room or location's lighting decreases below a certain threshold and then activates a high brightness LED light for a set time. The smart light also as a motion sensor that has 100 degrees of vision that turns the light on.
-```HTML 
-```
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
