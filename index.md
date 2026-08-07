@@ -29,7 +29,7 @@ The light level activated smart light runs on Arduino UNO and has a 5 Mohm LDR w
 - I add a motion sensor to the smart light and switch the LDR to a 2 mohm instead of 5 mohm to demo the light better
 - I was most surprised on how simple the updates to the code and adding how the motion sensor was
 - The biggest challenged of milestone two was wiring the motion sensor
-- I learned that it was good to take a step back and see what the problem is
+- What I learn that best helped me overcome this challenge was to approach the problem differently and sit there for 30 minutes doing the same thing over and over
 - A cityscape for the light and a street light frame to hold the smart light
 
 # First Milestone
@@ -98,6 +98,6 @@ void loop() {
 
 # Recourse list
 
-|Tinkercad| Used to tinkercad to make the schematic of my project| <a href="www.tinkercad.com"> Link </a> |
+|Tinkercad| Used to tinkercad to make the schematic of my project| <a href="https://www.tinkercad.com/circuits"> Link </a> |
 |Arduino project hub| the original work I based my project on| <a href="https://projecthub.arduino.cc/angadiameya007/smart-street-light-6ad038"> Link </a> 
 
